@@ -97,7 +97,7 @@
 
 ### Discord:
 
-<p align="center"><img src="https://lanyard.cnrad.dev/api/526822284694913042">
+<p align="center"><img src="[https://lanyard.cnrad.dev/api/526822284694913042](https://lanyard.cnrad.dev/api/284176926296375296?theme=light&showDisplayName=true&idleMessage=no%20time%20to%20waste%20it)">
 
   
 
