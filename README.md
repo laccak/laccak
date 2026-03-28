@@ -10,22 +10,22 @@
 <br/>  
 
 ```nasm
-; profile.asm
+; profile.me
 
-section .data
-user        db "00ie"
-role        db "cybersecurity student"
+about .data
+user        db "underactors"
+role        db "computer science student"
 
-systems     db "windows | nyarch linux"
-langs       db "js | ts | py | c# | go | nim | rust | bash"
+systems     db "windows | Mac"
+langs       db "js | ts | py | c# | c+ | os | git | bash"
 
-focus       db "systems | security | research"
+focus       db "systems | web | projects"
 
 section .text
 _start:
-    mov rax, focus
-    xor rbx, rbx        ; no distractions
-    ret
+    xor edi, edi
+    mov eax, 60
+    syscall
 ```
 
 <br/>  
