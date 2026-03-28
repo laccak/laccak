@@ -1,4 +1,4 @@
-### <div align="center">underactors | Web Developer</div>  
+### <div align="center">underactors</div>  
   
 
 - Mastered the Event Loop; currently decoding the Zen of the Snake.
@@ -86,10 +86,14 @@
 ## **<div align="center">Still cant reach me?</div>**  
   
 
-<img src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" align="left" height="30" width="30" />  
-  
+# ☕ Social:
 
-#### **[My Discord](https://discord.com/users/284176926296375296)**  
+[![Discord](https://img.shields.io/badge/Discord:-Mid0Hub-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WzYXVbXt6C)
+
+### Discord:
+
+<p align="center"><img src="https://lanyard.cnrad.dev/api/526822284694913042">
+
   
 
 <img src="https://images.seeklogo.com/logo-png/48/1/daily-dev-icon-logo-png_seeklogo-483914.png" align="left" height="30" width="30" />  
