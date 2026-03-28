@@ -84,11 +84,16 @@
   
 
 ## **<div align="center">Still cant reach me?</div>**  
+
+<img src="https://images.seeklogo.com/logo-png/48/1/daily-dev-icon-logo-png_seeklogo-483914.png" align="left" height="30" width="30" />  
   
 
-# ☕ Social:
+#### **[My DailyDev](https://app.daily.dev/asylum)** 
+  
 
-[![Discord](https://img.shields.io/badge/Discord:-Mid0Hub-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WzYXVbXt6C)
+# ☕ discord:
+
+[![Discord](https://img.shields.io/badge/Discord:-underactors-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WzYXVbXt6C)
 
 ### Discord:
 
@@ -96,7 +101,4 @@
 
   
 
-<img src="https://images.seeklogo.com/logo-png/48/1/daily-dev-icon-logo-png_seeklogo-483914.png" align="left" height="30" width="30" />  
-  
-
-#### **[My DailyDev](https://app.daily.dev/asylum)**  
+ 
