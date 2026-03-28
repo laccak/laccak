@@ -1,12 +1,8 @@
 ### <div align="center">underactors</div>  
   
 
-- Mastered the Event Loop; currently decoding the Zen of the Snake.
-
-  
-  
-
-- 6 years of full-stack evolution. Expert in Next JS. Apprentice of Python.
+- No time to waste it
+- 6 years of full-stack evolution.
 
   
   
