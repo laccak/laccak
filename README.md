@@ -51,7 +51,7 @@ _start:
 </div>  
   
 
-## **<div align="center">Still cant reach me?</div>**  
+## **<div align="center">Others</div>**  
 
 <img src="https://images.seeklogo.com/logo-png/48/1/daily-dev-icon-logo-png_seeklogo-483914.png" align="left" height="30" width="30" />  
   
