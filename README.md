@@ -27,7 +27,11 @@ _start:
     mov eax, 60
     syscall
 ```
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lqt5qu2ztkwgiw3x55w6jkmzey&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lqt5qu2ztkwgiw3x55w6jkmzey&redirect=true)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lqt5qu2ztkwgiw3x55w6jkmzey&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
 
 <br/>  
 
