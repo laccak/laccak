@@ -7,7 +7,9 @@
   
   
 
-<br/>  
+<div align="center">
+
+<table><tr><td>
 
 ```nasm
 ; profile.me
@@ -28,14 +30,15 @@ _start:
     syscall
 ```
 
-  <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lqt5qu2ztkwgiw3x55w6jkmzey&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lqt5qu2ztkwgiw3x55w6jkmzey&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true">
-  </a>
-</p>
- 
+</td><td>
 
-<br/>  
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lqt5qu2ztkwgiw3x55w6jkmzey&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lqt5qu2ztkwgiw3x55w6jkmzey&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true">
+</a>
+
+</td></tr></table>
+
+</div>
 
 
 
