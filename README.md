@@ -30,6 +30,7 @@ script      db "code"
 audience    db "the internet"
 
 act         db "commit. push."
+            db "push."
 
 section .text
 _start:
