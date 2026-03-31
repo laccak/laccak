@@ -36,7 +36,6 @@ _start:
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lqt5qu2ztkwgiw3x55w6jkmzey&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true">
 </a>
 
-</td></tr></table>
 
 </div>
 
