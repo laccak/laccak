@@ -20,16 +20,27 @@ about .data
 user        db "underactors"
 role        db "computer science student"
 
-systems     db "windows | Mac"
-langs       db "js | ts | py | c# | c+ | os | git | bash"
+systems     db "windows | mac"
+langs       db "js | ts | py | c# | c++ | asm | git | bash"
 
 focus       db "systems | web | projects"
 
+; lore
+stage       db "github"
+script      db "code"
+audience    db "the internet"
+
+quote       db "underacting >"
+            db "overreacting."
+
+act         db "commit."
+            db "push."
+
 section .text
 _start:
-    xor edi, edi
-    mov eax, 60
-    syscall
+    xor edi, edi        ; no drama
+    mov eax, 60         ; exit stage
+    syscall             ; curtain closes
 ```
 
 <br clear="right"/>
