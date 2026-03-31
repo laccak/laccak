@@ -36,6 +36,7 @@ section .text
 _start:
     xor edi, edi        ; no drama
     mov eax, 60         ; exit stage
+    syscall             ; curtain closes
 ```
 
 <br clear="right"/>
