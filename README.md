@@ -30,9 +30,6 @@ stage       db "github"
 script      db "code"
 audience    db "the internet"
 
-quote       db "underacting >"
-            db "overreacting."
-
 act         db "commit."
             db "push."
 
