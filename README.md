@@ -27,42 +27,16 @@ _start:
     mov eax, 60
     syscall
 ```
-### <div align="center">underactors</div>  
-  
 
-- No time to waste it
-- 6 years of full-stack evolution.
-
-  
-  
-
-<br/>  
-
-```nasm
-; profile.me
-
-about .data
-user        db "underactors"
-role        db "computer science student"
-
-systems     db "windows | Mac"
-langs       db "js | ts | py | c# | c+ | os | git | bash"
-
-focus       db "systems | web | projects"
-
-section .text
-_start:
-    xor edi, edi
-    mov eax, 60
-    syscall
-```
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lqt5qu2ztkwgiw3x55w6jkmzey&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lqt5qu2ztkwgiw3x55w6jkmzey&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lqt5qu2ztkwgiw3x55w6jkmzey&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true">
   </a>
 </p>
+ 
 
 <br/>  
+
 
 
 ## Connect with me  
