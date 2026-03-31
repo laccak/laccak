@@ -28,7 +28,7 @@ _start:
     syscall
 ```
 
-  <p align="left">
+  <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lqt5qu2ztkwgiw3x55w6jkmzey&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lqt5qu2ztkwgiw3x55w6jkmzey&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true">
   </a>
