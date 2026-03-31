@@ -26,7 +26,6 @@ langs       db "js | ts | py | c# | c++ | asm | git | bash"
 focus       db "systems | web | projects"
 
 ; lore
-stage       db "github"
 script      db "code"
 audience    db "the internet"
 
@@ -37,7 +36,6 @@ section .text
 _start:
     xor edi, edi        ; no drama
     mov eax, 60         ; exit stage
-    syscall             ; curtain closes
 ```
 
 <br clear="right"/>
