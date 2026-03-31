@@ -29,8 +29,7 @@ focus       db "systems | web | projects"
 script      db "code"
 audience    db "the internet"
 
-act         db "commit."
-            db "push."
+act         db "commit. push."
 
 section .text
 _start:
