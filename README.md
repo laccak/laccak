@@ -75,7 +75,7 @@ _start:
 
 # ☕ discord:
 
-[![Discord](https://img.shields.io/badge/Discord:-underactors-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/284176926296375296)
+[![Discord](https://img.shields.io/badge/Discord:-lacca-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/284176926296375296)
 
 ### Discord:
 
