@@ -17,7 +17,7 @@
 ; profile.me
 
 about .data
-user        db "underactors"
+user        db "lacca"
 role        db "computer science student"
 
 systems     db "windows | mac"
