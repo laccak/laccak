@@ -61,15 +61,6 @@ _start:
 </a>  
 </div>  
   
-
-## **<div align="center">Others</div>**  
-
-<img src="https://images.seeklogo.com/logo-png/48/1/daily-dev-icon-logo-png_seeklogo-483914.png" align="left" height="30" width="30" />  
-  
-
-#### **[My DailyDev](https://app.daily.dev/asylum)** 
-  
-
 # ☕ discord:
 
 [![Discord](https://img.shields.io/badge/Discord:-lacca-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/284176926296375296)
