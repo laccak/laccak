@@ -1,7 +1,7 @@
 ### <div align="center">lacca</div>  
   
 
-- No time to waste it
+
 - 6 years of full-stack evolution.
 
   
